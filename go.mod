@@ -1,5 +1,5 @@
 module github.com/PFtyrant/netns
 
-go 1.12
+go 1.14
 
-require golang.org/x/sys v0.0.0-20200217220822-9197077df867
+require golang.org/x/sys v0.0.0-20200826173525-f9321e4c35a6
